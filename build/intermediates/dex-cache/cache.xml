@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-composer-2.3.0_b26ab352a8c7aae69a7bce6313b21d573ec3f8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_ea958d1a1cd279c47e93a19a8a88228f72b381b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_f4c4beabc79b7424618ed93e9cc7a2de0df33344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/twitter-text-1.13.0_6ac9f1ef680ed31e0147eb0bdd000bc1a0a8cbb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_547cee24eaa54d57e99e3e6d13009a3b2a044fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0558e5b6c171bd6719581340f9ac6be4af5ae265">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.1.1_d90897080cc9a3d879864e93623b79b264250d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.jakewharton.picasso/picasso2-okhttp3-downloader/1.1.0/f4f77eb62269c977c154765cd01587eda6488273/picasso2-okhttp3-downloader-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4f77eb62269c977c154765cd01587eda6488273">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/picasso2-okhttp3-downloader-1.1.0_65fbbd4d71cb6c7692bdbc66a81a66b238543326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.14_eea1158043e6366a5f5a49ba11b4774e8488c889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.0/1477ec5caf8319ab4b51eb43553cd66aa86fdea5/okhttp-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/okhttp-2.7.0_0b9bf4e869b80737d66b8c43f3bc45246b185f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_2c7244e4821a03e704bdbab91a424c7ee3c3ff40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/gson-2.6.1_e8f3ff0f11edd8e7b3b4e26ad31ac27aadf7e5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.2.0_71082d292e4864a2b169e60148e8a48cf4f42500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.0_6f2b7b87da676e0436c568882eb7367dc4462843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_bb9dceedfb5acf1d9c06ce1273f2710db1c089b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.2.0_a7c9574a8269e659d471ae27be4400d8490edae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/glide-3.7.0_adbb2112ad2d74b96b07a8cf02d8c23ffcc91796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/okio-1.9.0_922e7c715bf5c1ac7c265846f5df055fb0237f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_a6ed446681b9dbf97ffb0449140739b5c8b20efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.0_0b530f0ff27c2b6a24c16a96b84b36259dd4de92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_4b5b020bb3d7f27574437508c5159030f8537d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_d91f96d501d75aca135a9ea21d79d56264c5a002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-1.2.0_b98e3ed8e34cf8c09ba5e289c0ef569ed016d96e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_1da2705b4e1aba39fc4a4635d4a2ebeaf81fccc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_629f5b1f65d42ec4208cd73a69cb5583dd0ebfc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.19.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.19.0_4768f34fc98ac4f72f2c6a7c93500138fc0d1916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.2.0_67e07e38109b4de4b6caa7a7f4a907047592467a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_c1b3d0a0f675e6b49dfba2fdc43fefa0edaf5b82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_ca10e2baadbb2e35fd227435340e9b56961f3925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_58de64c1c962afed315249fabb33664a586f34e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.2.0_e2c2299f1addd5b45882cdbccd4dee88f6a92709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/uz.shift/colorpicker/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a710fe3bb05486c714e7743b3b2e9e3f5cea9cd1">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/uz.shift-colorpicker-0.5_d478e67cf11941b36a683eb8fdcc5101ffb34e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-core-2.3.0_0b2f1b4433358250e0f6538fe4bcb09ad10250fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_337ebd355358ccd872e895a9706d1c03beac582f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_973d87e96829f44d0d9e1ee1f0f842ca0cd0c21d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bdf5cd702d3d860cd85783a776c26605f557882">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-1.2.0_04a4298b5c0b9d24d72d033b244a5d35bd7129ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_1930fa0ac759ac49f1f81c979a272af4a323eb3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_29dfd2365d07197a9f87397bee473eb251990382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_25868006c567e74fadcee8b850372a6cc31f96ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_577a97a584cf2726219d07119b1fc3e36f7fa6f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-ui-2.3.0_47e04f781447a84ce5eac4e11ecaa6beff6e216a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.7.0/d9986de376d6aaeadd5e2c12390f99d17dc9f6e8/okhttp-urlconnection-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9986de376d6aaeadd5e2c12390f99d17dc9f6e8">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.7.0_43959c9162eec4864f461e53e02dde37a3586efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf8c0b6ec17f059cf61ecd101296e16c38562196">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-storage-1.2.0_9e4b6d9de1dcd4f4f786cdf4deb38a40793f4e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_a41d83dc5aac063e014258f913b6dcab349489b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.2.0_9f4d95b1d42d5d6a01a61a5868f45514293b6bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_85369bc11d996ed5736c0a527c1289579a1e2e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.0_b9fb00edf54788821f64f8aed0055259d66f7401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_4e74881a5454652bc34e2b6a530c40eed6d6b470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_52f60820f88fa7b054cf38efaaabcdcfa72bacda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_4f658e83be9c4be837fa07f354221b26f12c956c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_9ed47656ef3945b9e1f7eca552691e47dd1a2b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.1.1_0a50cf738fdb6b4904dbeae46c153a8a0f6c769b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.0_9b2b1aa36339651e34386d7b66898283c1c0bd13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/3.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc2f1d4fe9a105104aa4f2e95d8f878334bdb8d6">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.wdullaer-materialdatetimepicker-3.1.3_3212e57b60d50d26e5a8a7459fb7469c16faceea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_0855cb9e9cf411bb7552b5b738a43d655cda2fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1395232a7eddc612029353b3c953cb0fced71076">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-1.2.0_e011520f9b40ec105d8f1608a1a4b5114dc429df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_5a05e03e0f4d577125a696c5e3a2e2e9d49ec78c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-2.3.0_bb6417593a002238e6c27b421eecff688252d9b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/oiltanker/Projects/TODOList/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/oiltanker/Projects/TODOList/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_9d0202759b76e36d10f724a62ebee53285c963d4.jar" />
+    </item>
+
+</items>

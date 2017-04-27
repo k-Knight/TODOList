@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.comoiltanker.github.todolist.TODOListActivity">
+
+    <item android:title="Settings"
+        android:id="@+id/settingsMenuItem"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item android:title="Sign Out"
+        app:showAsAction="never"
+        android:id="@+id/signOutMenuItem" />
+</menu>
