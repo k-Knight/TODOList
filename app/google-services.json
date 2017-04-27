@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271119640533",
+    "firebase_url": "https://todolist-cb3ef.firebaseio.com",
+    "project_id": "todolist-cb3ef",
+    "storage_bucket": "todolist-cb3ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271119640533:android:71414e8dd0d0888a",
+        "android_client_info": {
+          "package_name": "comoiltanker.github.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271119640533-iq7leu1nanmn3505502cl2pofrc94rci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comoiltanker.github.todolist",
+            "certificate_hash": "e3a805265ffed37965cf5a601a522cc50e86f7ec"
+          }
+        },
+        {
+          "client_id": "271119640533-lh1ucchq2tsbgp4rgnho21kn8q9iaho5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNmtRP35udWdmOx49sqaTpjJoXm46s3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271119640533-lh1ucchq2tsbgp4rgnho21kn8q9iaho5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

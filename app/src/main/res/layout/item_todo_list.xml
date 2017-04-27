@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/todoItemCheck"/>
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="#cccccc"
+        android:layout_marginTop="7dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginLeft="3dp"
+        android:id="@+id/todoItemImage"/>
+
+    <RelativeLayout
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="?attr/colorPrimaryDark"
+            android:id="@+id/todoItemTitle"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentTop="true"
+            android:text="TODO title"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="?attr/colorAccent"
+            android:textAlignment="textEnd"
+            android:id="@+id/todoItemDate"
+
+            android:layout_marginEnd="2dp"
+            android:layout_marginBottom="15dp"
+            android:text="date"
+            android:layout_alignParentBottom="true"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="✖"
+        android:textColor="#ffffff"
+        android:background="@drawable/item_del_button"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_margin="6dp"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/todoItemDel"/>
+
+</LinearLayout>
